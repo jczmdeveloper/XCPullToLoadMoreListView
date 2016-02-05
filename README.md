@@ -5,35 +5,9 @@ XCPullToLoadMoreListView-下拉加载更多ListView控件（仿QQ、微信聊天
 
 效果图：
 
-![image](https://github.com/jczmdeveloper/XCPullToLoadMoreListView/blob/master/screenshots/01.gif)  
-
-![image](https://github.com/jczmdeveloper/XCPullToLoadMoreListView/blob/master/screenshots/02.gif)  
+![image](https://github.com/jczmdeveloper/XCPullToLoadMoreListView/blob/master/screenshots/01.gif)     ![image](https://github.com/jczmdeveloper/XCPullToLoadMoreListView/blob/master/screenshots/02.gif)  
 
 使用方法示例：
-
-
-
-package com.xc.demo;
-
-import android.graphics.Color;
-import android.os.Bundle;
-import android.os.Handler;
-import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
-import android.view.Gravity;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.AbsListView;
-import android.widget.BaseAdapter;
-import android.widget.ListView;
-import android.widget.TextView;
-
-import com.xc.util.DensityUtil;
-import com.xc.xcpulltoloadmorelistview.R;
-import com.xc.xcpulltoloadmorelistview.XCPullToLoadMoreListView;
-
-import java.util.ArrayList;
-import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
